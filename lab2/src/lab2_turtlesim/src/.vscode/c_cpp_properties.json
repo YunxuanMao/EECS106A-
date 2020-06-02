@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/myx/ros_workspaces/lab2/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/myx/ros_workspaces/lab2/src/lab2_turtlesim/include/**",
+                "/home/myx/ros_workspaces/lab2/src/my_chatter/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
